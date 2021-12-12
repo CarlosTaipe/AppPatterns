@@ -21,7 +21,7 @@ class PersonRepository {
             }
 
             override fun onFailure(call: Call<PersonResult>, t: Throwable) {
-                TODO("Not yet implemented")
+
             }
 
         })
